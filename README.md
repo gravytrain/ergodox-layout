@@ -1,2 +1,2 @@
 # ergodox-layout
-My layout for my ergodox keyboard.
+My layout for my ergodox keyboard. 
